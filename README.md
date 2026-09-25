@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Este projeto foi desenvolvido como uma atividade acadêmica da disciplina de Desenvolvimento Front-End para Web.
+Este projeto foi desenvolvido como uma questão da prova da disciplina de Desenvolvimento Front-End para Web.
 
 O tema escolhido foi o futebol, apresentando informações sobre sua origem, sua história e algumas de suas principais competições.
 
